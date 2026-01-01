@@ -4,7 +4,7 @@
 //  Calculator
 //
 //  Created by Matei Pralea on 26/04/2024.
-//  Copyright © 2024-2025 Matei Pralea. All rights reserved.
+//  Copyright © 2024-2026 Matei Pralea. All rights reserved.
 //
 
 import SwiftUI
